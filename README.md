@@ -142,5 +142,5 @@
 
 
 																  
-																  
-		[看了这么多，我想你需要的是这个](http://www.asciiworld.com/)
+[看了这么多，我想你需要的是这个](http://www.asciiworld.com/)														  
+		
